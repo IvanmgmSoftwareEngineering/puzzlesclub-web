@@ -166,23 +166,19 @@ Each puzzle level determines the **size of the mini-dictionary** from which the 
 
 ## 🏆 Rewards
 
-Each puzzle level has its own dedicated **reward wallet** containing premium digital assets. You can verify the rewards on [NFTscan](https://polygon.nftscan.com/) or [OpenSea](https://opensea.io/) before you play.
+Each puzzle level has its own dedicated **reward wallet** containing premium digital assets. The number of rewards **scales with difficulty** — harder puzzles yield more prizes. You can verify the contents on OpenSea before you play:
 
-### What's Inside Each Reward Wallet
+| Level | Difficulty | Curated NFTs | Unstoppable Domains | Reward Wallet |
+|-------|-----------|:------------:|:-------------------:|:-------------:|
+| **#10** | 🟢 Easy | 10 | 10 | [View on OpenSea](https://opensea.io/0x10BcB71dd52f9C1BE33Ff24463aF742a6e088A77) |
+| **#11** | 🟡 Medium | 11 | 11 | [View on OpenSea](https://opensea.io/0x11BC28C14b3e31661Bc8Ff7169c4741624862981) |
+| **#12** | 🟠 Hard | 12 | 12 | [View on OpenSea](https://opensea.io/0x12ba3728941f7ef65456E7123393A4A21532703f) |
+| **#13** | 🔴 Expert | 13 | 13 | [View on OpenSea](https://opensea.io/0x13BB32f506C2253ae9cbC8C1de240881cAF81C85) |
+| **#14** | 🟣 Master | 14 | 14 | [View on OpenSea](https://opensea.io/0x14Bfe2140dec59758Bfe000f142674910C700081) |
+| **#15** | ⚫ Legendary | 15 | 15 | [View on OpenSea](https://opensea.io/0x15b4B3121874A6D3Df87793774fa3B1F9A56D534) |
+| **#16** | 💀 Impossible | 16 | 16 | [View on OpenSea](https://opensea.io/0x16B9F9a8D2211b0181510453cD842238373d1539) |
 
-- 🎨 **Curated NFTs** — Hand-picked digital art from premium collections
-- 🌐 **Unstoppable Domains** — Official Web3 domains for your decentralized identity
-
-The number of rewards **scales with difficulty** — harder puzzles yield more prizes, so you can be **respected in the crypto world from the beginning**.
-
-### Featured Collections in Rewards
-
-| Collection | Description |
-|-----------|------------|
-| [Books - (Polygon)](https://opensea.io/collection/books-polygon) | Literary-themed digital collectibles |
-| [Museum - (Polygon)](https://opensea.io/collection/museum-polygon-official) | Curated museum-quality digital art |
-| [The Simpsons - (Polygon)](https://opensea.io/collection/the-simpsons-polygon-official) | Iconic pop culture collectibles |
-| [Magic: The Gathering - (Polygon)](https://opensea.io/collection/magic-the-gathering-polygon-official) | Legendary trading card game art |
+> ⚠️ **Winner-Takes-All**: There is only one reward wallet per puzzle level. Whoever gets there first takes it all!
 
 ---
 
